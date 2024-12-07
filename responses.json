@@ -1,0 +1,88 @@
+{
+    "responses": [
+        {
+            "response": "¡Hola!",
+            "list_of_words": ["hola", "klk", "saludos", "buenas"],
+            "single_response": true,
+            "required_words": []
+        },
+        {
+            "response": "Estoy bien. ¿Y tú?",
+            "list_of_words": ["como", "estas", "va", "vas", "sientes"],
+            "single_response": false,
+            "required_words": ["como"]
+        },
+        {
+            "response": "El ITLA ofrece programas innovadores en Inteligencia Artificial, Ciberseguridad, Desarrollo de Software y Ciencia de Datos. Estos son altamente demandados por la creciente digitalización.",
+            "list_of_words": ["programas", "estudio", "innovadores", "demandados", "itla", "actualmente"],
+            "single_response": false,
+            "required_words": ["programas", "itla"]
+        },
+        {
+            "response": "El ITLA se actualiza constantemente al trabajar con expertos de la industria, participar en proyectos de investigación y renovar sus laboratorios con equipos modernos.",
+            "list_of_words": ["itla", "actualiza", "tendencias", "tecnológicas", "planes", "estudio"],
+            "single_response": false,
+            "required_words": ["itla", "actualiza"]
+        },
+        {
+            "response": "El ITLA fomenta proyectos prácticos e investigaciones a través de laboratorios modernos, centros especializados y pasantías en empresas del sector.",
+            "list_of_words": ["proyectos", "prácticos", "investigaciones", "itla", "carrera"],
+            "single_response": false,
+            "required_words": ["proyectos", "itla"]
+        },
+        {
+            "response": "Los estudiantes del ITLA pueden obtener certificaciones internacionales de Cisco, Microsoft y más, lo que les abre puertas a mejores oportunidades laborales.",
+            "list_of_words": ["certificaciones", "internacionales", "itla", "estudiantes", "reconocimientos"],
+            "single_response": false,
+            "required_words": ["certificaciones", "itla"]
+        },
+        {
+            "response": "El ITLA tiene laboratorios modernos con acceso a software y hardware especializado, disponibles para proyectos y prácticas con soporte técnico experto.",
+            "list_of_words": ["laboratorios", "instalaciones", "itla", "tecnológicas", "acceso"],
+            "single_response": false,
+            "required_words": ["laboratorios", "itla"]
+        },
+        {
+            "response": "El ITLA apoya el emprendimiento estudiantil con incubadoras, programas de aceleración y competencias que impulsan la creación de startups.",
+            "list_of_words": ["emprendimiento", "itla", "estudiantes", "startups", "apoyo"],
+            "single_response": false,
+            "required_words": ["emprendimiento", "itla"]
+        },
+        {
+            "response": "El ITLA tiene clubes de programación, robótica y diseño gráfico, ideales para complementar tu formación y conectar con otros estudiantes.",
+            "list_of_words": ["actividades", "extracurriculares", "clubes", "tecnológicos", "itla"],
+            "single_response": false,
+            "required_words": ["clubes", "itla"]
+        },
+        {
+            "response": "La vida estudiantil en el ITLA es dinámica y colaborativa, con organizaciones y redes que fomentan la integración y el aprendizaje en comunidad.",
+            "list_of_words": ["vida", "estudiantil", "itla", "comunidades", "redes", "estudiantes"],
+            "single_response": false,
+            "required_words": ["vida", "itla"]
+        },
+        {
+            "response": "El ITLA tiene fuertes lazos con empresas y ofrece pasantías y ferias de empleo para facilitar la inserción laboral de los estudiantes.",
+            "list_of_words": ["vinculación", "itla", "sector", "empresarial", "pasantías", "prácticas"],
+            "single_response": false,
+            "required_words": ["pasantias", "itla"]
+        },
+        {
+            "response": "El ITLA ofrece becas, ayudas económicas y programas de intercambio para que los estudiantes accedan a educación de calidad y experiencias internacionales.",
+            "list_of_words": ["beneficios", "itla", "becas", "ayudas", "económicas", "intercambio"],
+            "single_response": false,
+            "required_words": ["becas", "itla"]
+        },
+        {
+            "response": "Nuestra sede se encuentra ubicada en la Autopista Las Américas, Km. 27, Parque Cibernético de Santo Domingo, La Caleta, Boca Chica.",
+            "list_of_words": ["ubicados", "direccion", "donde", "ubicacion"],
+            "single_response": true,
+            "required_words": []
+        },
+        {
+            "response": "¡Siempre a la orden!",
+            "list_of_words": ["gracias", "te lo agradezco", "thanks"],
+            "single_response": true,
+            "required_words": []
+        }
+    ]
+}
